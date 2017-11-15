@@ -1,3 +1,4 @@
 require './app/app.rb'
 
-run Bookmark
+#run Bookmark
+run Sinatra::Application
